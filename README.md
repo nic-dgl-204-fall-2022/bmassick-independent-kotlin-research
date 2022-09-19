@@ -1,8 +1,9 @@
 # Independent Kotlin overview research - part 1
-Fill out this template as per the directions on our [course site](https://ash-teach.github.io/dgl-204/#/dgl204-2022fa/week-01#assignments)
 
-## \[Section overview title\]
-\[Write your summary here\]
+## Kotlin for Data Science
+Kotlin has a lot going for it in terms of data science. Since Kotlin is concise, readable, easy to learn and is a JVM language it makes it a great choice. It has access to Java libratries and has maintainable code that is easy to troubleshoot. There are so many ways you can use Kotlin to work with data.
+
+Kotlin also has a multitude of different interactive editors that help with dealing with data such as Jupyter Kotlin Kernal, Kotlin Notebooks in Datalore, and Zeppelin Kotlin interpreter. They are each able to offer a great deal of help with organizing and keeping track of any data you need, just in their own ways. Kotlin also has an ever expanding list of libraries for data related objectives. This list is vast and includes Java libraries.
 
 ## \[Key resources\]
 1. \[Include at least 5 - remember to write brief summaries for each\]
