@@ -17,14 +17,14 @@ Kravis implements grammar for data visualization. This allows for an easy transi
 ### 5. [Smile](https://github.com/haifengl/smile)
 Smile is a comprehensive learning machine developed for Java and Scala, however it can be used in Kotlin. Smile is an amazing API for anything to do with machine learning as it covers so many different algorithms and other advanced aspects. 
 
-## \[Related GitHub Repo\]
-### \[Title of repo\]
-### \[Author of repo\]
-### \[Link to repo\]
+## [Smile](https://github.com/haifengl/smile)
+### Smile
+### Haifeng Li
+### [Smile](https://github.com/haifengl/smile)
 
-\[Write a brief description on the purpose of the repo\]
+Smile is a comprehensive learning machine. It is built to essentially teach AI using statistical precedures, functions and the like. This is way above my understanding on exactly how they work but this kind of thing interests me as I have wanted to try my hand at making a bot in Rocket League using some sort of machine learning. So on an extremely low level of explaination it is used when you are wanting to implement methods to train and teach your AI. This is then tracked using graphs, maps, and other scaling to show your progress on the AI. However, this is really where I start to not comprehend what is going on.
 
 **Note:** All your work should be *in your own words*. If you quote anyone, or if you use any resources other than the Kotlin Overview docs you should say so and provide a link in a **Bibliography**.
 
 ## Reflection
-\[Use this space to reflect on what you learned. Consult me or the [course site](https://ash-teach.github.io/dgl-204/#/dgl204-2022fa/week-01#assignments) if you need help\]
+For the reflection I want to talk about what I learnt and what I am still confused about. So first I leanrnt that Kotlin is actually used a lot more than I thought for data science and the like. I personally have seen people mainly using Java and some Python for this. As for what I am still confused about ... well that is essentially just anything to do with machine learning. I really enjoy the idea of AI and building my own but have nowhere near the know-how to do so. It is something I plan on looking into in the future however.
