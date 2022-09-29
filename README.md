@@ -15,7 +15,7 @@ KotlinDL is a high-level deep learning API for Kotlin. it uses a few API's such 
 ### 4. [Kravis](https://github.com/holgerbrandl/kravis)
 Kravis implements grammar for data visualization. This allows for an easy transition from data to graph. It is used through Jupyter and is still an experimental API. This API seems to have a lot of potential as it keeps developing.
 ### 5. [Smile](https://github.com/haifengl/smile)
-Smile is a comprehensive learning machine developed for Java and Scala, [however it can be used in Kotlin]. Smile is an amazing API for anything to do with machine learning as it covers so many different algorithms and other advanced aspects. 
+Smile is a comprehensive learning machine developed for Java and Scala, [however it can be used with Kotlin]. Smile is an amazing API for anything to do with machine learning as it covers so many different algorithms and other advanced aspects. 
 
 ## [Smile](https://github.com/haifengl/smile)
 ### Smile
