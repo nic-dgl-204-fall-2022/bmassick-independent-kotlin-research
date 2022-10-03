@@ -33,7 +33,8 @@ For the reflection I want to talk about what I learnt and what I am still confus
 The purpose of the [Coord.kt](https://github.com/holgerbrandl/kravis/blob/master/src/main/kotlin/kravis/Coord.kt) section, based off of my perception is to essentially display the data using functions to determine how to zoom/display the data. It is also able to flip coordinates so horizontal becomes vertical.
 
 ### Code snippet from [Kravis/Coord.kt](https://github.com/holgerbrandl/kravis/blob/master/src/main/kotlin/kravis/Coord.kt) lines 15-29
-'''
+''''
+
 fun GGPlot.coordCartesian(
     xlim: Limits? = null,
     ylim: Limits? = null,
@@ -49,11 +50,13 @@ fun GGPlot.coordCartesian(
 
     addSpec("""coord_cartesian($args)""")
 }
-'''
+
+''''
 My understanding of what this snippet of code from [Kravis/Coord.kt](https://github.com/holgerbrandl/kravis/blob/master/src/main/kotlin/kravis/Coord.kt) lines 15-29, is to find where all the data is located on a table or graph and then decide how large of a table or graph is needed to display the data. It is kind of like a zoom. However, it looks like the addSpec() function is what actually handles the actions.
 
 ### Code snippet from [Kravis/Coord.kt](https://github.com/holgerbrandl/kravis/blob/master/src/main/kotlin/kravis/Coord.kt) lines 86-100
-'''
+''''
+
 fun GGPlot.coordFlip(
     xlim: Double? = null,
     ylim: Double? = null,
@@ -69,7 +72,8 @@ fun GGPlot.coordFlip(
 
     addSpec("""coord_flip($args)""")
 }
-'''
+
+''''
 My understanding of the above snippen of code from [Kravis/Coord.kt](https://github.com/holgerbrandl/kravis/blob/master/src/main/kotlin/kravis/Coord.kt) lines 86-100, is to be able to flip from horizontal to vertical. However it looks like the addSpec() function is what actually handles the actions.
 
 # Summary of Independent Kotlin overview research - part 1 & 2
